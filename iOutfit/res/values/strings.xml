@@ -4,5 +4,10 @@
     <string name="app_name">iOutfit</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_wardrobe">My Wardrobe</string>
+    <string name="title_activity_consultent">My Consultent</string>
+    <string name="title_activity_capture_clothes">Capture Clothes</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="title_activity_settings">Settings</string>
 
 </resources>

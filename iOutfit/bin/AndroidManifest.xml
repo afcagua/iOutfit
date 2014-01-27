@@ -22,6 +22,26 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.ioutfit.WardrobeActivity"
+            android:label="@string/title_activity_wardrobe">
+        </activity>
+        <activity
+            android:name="com.example.ioutfit.ConsultentActivity"
+            android:label="@string/title_activity_consultent">
+        </activity>
+        <activity
+            android:name="com.example.ioutfit.CaptureClothesActivity"
+            android:label="@string/title_activity_capture_clothes">
+        </activity>
+        <activity
+            android:name="com.example.ioutfit.ProfileActivity"
+            android:label="@string/title_activity_profile">
+        </activity>
+        <activity
+            android:name="com.example.ioutfit.SettingsActivity"
+            android:label="@string/title_activity_settings">
+        </activity>
     </application>
 
 </manifest>
